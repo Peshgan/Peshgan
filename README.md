@@ -27,7 +27,7 @@ Building real projects every day — from FastAPI to LLM integrations.
 ### Building in public
 
 Every day I commit what I built.  
-Follow the journey → **[ai-backend-journey](https://github.com/Peshgan/ai-backend-journey)**
+Follow the journey → **[backend-devlog](https://github.com/Peshgan/ai-backend-journey)**
 
 ---
 
